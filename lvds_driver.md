@@ -4,7 +4,8 @@
 LVDS driver with current generator, CML driver and ESD diodes.
 Current is generated with a voltage DAC and source follower.
 
-NOTES: the driver only have 
+NOTES: the driver only have ESD diodes and doesn't have ESD clamp.
+ESD clamps are needed at higher level.
 
 ## Input/Output
 
