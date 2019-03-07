@@ -24,6 +24,6 @@ NOTES: the driver only have
 
 ## Simulation results
 
-The LVDS driver is simulated with 200Mbps input and 100fF load. The output eyediagram diagram is 
+The LVDS driver is simulated with 28Gbps input and 100fF load. The output eyediagram diagram is 
 
 ![eye_diagram](./eyediagram.bmp)
